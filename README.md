@@ -5,7 +5,7 @@
 <img src="https://github.com/ajabri/videowalk/raw/master/figs/teaser_animation.gif" width="600">
 </p>
 
-This is the repository for *Space-Time Correspondence as a Contrastive Random Walk*, published at NeurIPS 2020.  
+This is the repository for *Space-Time Correspondence as a Contrastive Random Walk*, published at NeurIPS 2020, modified for more options and flexible usage.  
 
 [[Paper](https://arxiv.org/abs/2006.14613)]
 [[Project Page](http://ajabri.github.io/videowalk)]
